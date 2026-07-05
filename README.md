@@ -75,7 +75,7 @@ const anxvl = {
 ## 📊 Estadísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ANXVL&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=E5484D&icon_color=E5484D&text_color=cccccc&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ANXVL&show_icons=true&theme=dark&hide_border=true&title_color=E5484D&icon_color=E5484D&text_color=cccccc&bg_color=0d1117" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANXVL&layout=compact&theme=dark&hide_border=true&title_color=E5484D&langs_count=8&bg_color=0d1117" />
 </div>
 
