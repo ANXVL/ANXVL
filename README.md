@@ -15,13 +15,22 @@
 
 ## 🧩 Sobre mí
 
-```txt
-const anxvl = {
-    focus:      ["privacy", "security", "client-side apps"],
-    languages:  ["JavaScript", "Python", "HTML", "CSS"],
-    philosophy: "si se puede procesar en el navegador, no debe salir del navegador",
-    currently:  "auditando y perfeccionando mis propias herramientas"
-};
+```js
+// whoami.js
+class ANXVL {
+  constructor() {
+    this.focus      = ["privacy", "security", "client-side apps"];
+    this.stack      = ["JavaScript", "Python", "HTML/CSS", "Node.js"];
+    this.philosophy = "si se puede procesar en el navegador, no debe salir del navegador";
+    this.currently  = "auditando y perfeccionando mis propias herramientas";
+  }
+
+  location() {
+    return "🔒 encrypted"; // coherente con el enfoque: menos datos expuestos, mejor
+  }
+}
+
+module.exports = new ANXVL();
 ```
 
 - 🔐 Construyo herramientas **100% client-side** — sin backends innecesarios, sin fugas de datos.
@@ -75,17 +84,14 @@ const anxvl = {
 ## 📊 Estadísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ANXVL&show_icons=true&theme=dark&hide_border=true&title_color=E5484D&icon_color=E5484D&text_color=cccccc&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANXVL&layout=compact&theme=dark&hide_border=true&title_color=E5484D&langs_count=8&bg_color=0d1117" />
+  <img src="./github-metrics.svg" width="100%" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANXVL&theme=dark&hide_border=true&background=0D1117&ring=E5484D&fire=E5484D&currStreakLabel=E5484D" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ANXVL&theme=darkhub&no-frame=true&column=6&margin-w=8&margin-h=8" />
-</div>
+> ⚠️ La tarjeta de arriba (`github-metrics.svg`) la genera un GitHub Action propio — no depende de servicios externos que se pausan solos (te dejo el paso a paso completo debajo del README).
 
 <br/>
 
