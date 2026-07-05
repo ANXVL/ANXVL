@@ -1,49 +1,87 @@
-<h1 align="center">Hola, soy ANXVL 👋</h1>
+<div align="center">
 
-<p align="center">
-  Desarrollador enfocado en <b>privacidad</b>, <b>seguridad</b> y herramientas client-side.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=E5484D&center=true&vCenter=true&width=600&lines=Hola%2C+soy+ANXVL;Developer+%7C+Privacy+%26+Security+Focused;Client-side+first+%F0%9F%94%92" alt="Typing SVG" />
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Focus-Privacy%20%26%20Security-1a1a1a?style=flat-square&logo=protonmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Stack-Web%20%7C%20Games%20%7C%20Trading-1a1a1a?style=flat-square&logo=hackthebox&logoColor=white" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=ANXVL&style=flat-square&color=E5484D&label=Visitas+al+perfil" />
+
+</div>
 
 ---
 
 ### 🧩 Sobre mí
 
-- 🔐 Construyo herramientas **100% client-side**: lo que se procesa en el navegador, no sale del navegador.
-- 🎮 También desarrollo juegos y sistemas interactivos con Canvas2D / HTML5.
-- 📈 Experimento con scripts de trading algorítmico (señales, backtesting, automatización).
-- 🌓 Fan de las interfaces oscuras, minimalistas y sin distracciones.
+- 🔐 Construyo herramientas **100% client-side** — nada sale del navegador si no tiene que hacerlo.
+- 🎮 Desarrollo juegos y sistemas interactivos con Canvas2D / HTML5.
+- 🧠 Me obsesiona el detalle: auditorías, reescrituras completas y validación real antes de llamar "terminado" a algo.
+- 🌓 Fan de las interfaces oscuras, minimalistas y sin ruido visual.
+- 📍 Basado en Perú.
 
-### 🛠️ Stack
+### 🛠️ Stack & Herramientas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 ### 🚀 Proyectos destacados
 
-| Proyecto | Descripción |
-|---|---|
-| 🔑 **Vault Zero** | Generador de contraseñas en el navegador, auditado y con enfoque en no almacenar/exponer datos. |
-| 🧹 **MetaClean Pro** | Eliminador de metadatos multi-formato, procesamiento estrictamente client-side. |
-| 🛰️ **Nova Wing** | Space shooter en Canvas2D/HTML5 con arquitectura modular y sistemas de juego completos. |
-| 📊 **Trading Signal Toolkit** | Scripts para señales sobre futuros (Binance API), con lógica revisada y validada. |
+<table>
+  <tr>
+    <td width="50%">
+      <h4>🔑 Vault Zero</h4>
+      <p>Generador de contraseñas en el navegador. Auditado y reescrito con enfoque estricto en no almacenar ni exponer datos sensibles.</p>
+    </td>
+    <td width="50%">
+      <h4>🧹 MetaClean Pro</h4>
+      <p>Eliminador de metadatos con soporte multi-formato. Procesamiento 100% client-side, sin subir archivos a ningún servidor.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🛰️ Nova Wing</h4>
+      <p>Space shooter en Canvas2D/HTML5 con arquitectura modular multi-archivo y sistemas de juego completos.</p>
+    </td>
+    <td width="50%">
+      <h4>➕ Próximamente</h4>
+      <p>Aquí va tu siguiente proyecto. Actualiza esta celda cuando lo publiques.</p>
+    </td>
+  </tr>
+</table>
 
-> *(Actualiza esta tabla con los links reales de tus repos cuando los subas.)*
+> 💡 Recuerda pinear estos repos desde "Customize your pins" en tu perfil para que aparezcan arriba también.
+
+### 📊 Estadísticas
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ANXVL&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=E5484D&icon_color=E5484D" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANXVL&layout=compact&theme=dark&hide_border=true&title_color=E5484D&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANXVL&theme=dark&hide_border=true&ring=E5484D&fire=E5484D&currStreakLabel=E5484D" />
+</div>
+
+### 🏆 Trofeos
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ANXVL&theme=darkhub&no-frame=true&column=6&margin-w=8&margin-h=8" />
+</div>
 
 ### 📫 Contacto
 
-Agrega aquí el medio por el que prefieras que te contacten (Twitter/X, correo, etc.)
+<p align="left">
+  <!-- Reemplaza los "#" con tus links reales -->
+  <a href="#"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=todoist&logoColor=white" /></a>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANXVL&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-</p>
+<div align="center">
+  <sub>Construido con foco en privacidad y buen código. 🖤</sub>
+</div>
