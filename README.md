@@ -11,34 +11,31 @@
 
 </div>
 
-<br/>
+<div align="center">
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:E5484D,100:1a1a1a" />
+</div>
 
 ## 🧩 Sobre mí
 
-```js
-// whoami.js
-class ANXVL {
-  constructor() {
-    this.focus      = ["privacy", "security", "client-side apps"];
-    this.stack      = ["JavaScript", "Python", "HTML/CSS", "Node.js"];
-    this.philosophy = "si se puede procesar en el navegador, no debe salir del navegador";
-    this.currently  = "auditando y perfeccionando mis propias herramientas";
-  }
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1200&color=E5484D&center=true&vCenter=true&width=750&lines=%24+whoami+%E2%86%92+ANXVL;%24+focus+%E2%86%92+privacy%2C+security%2C+client-side;%24+filosof%C3%ADa+%E2%86%92+procesar+en+el+navegador%2C+no+salir+de+%C3%A9l;%24+status+%E2%86%92+auditando+mis+propias+herramientas" alt="Terminal" />
+</div>
 
-  location() {
-    return "🔒 encrypted"; // coherente con el enfoque: menos datos expuestos, mejor
-  }
-}
-
-module.exports = new ANXVL();
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/PRIVACY-E5484D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/SECURITY-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLIENT--SIDE-FFA94D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/GAME%20DEV-4ECDC4?style=for-the-badge&logoColor=white" />
+</p>
 
 - 🔐 Construyo herramientas **100% client-side** — sin backends innecesarios, sin fugas de datos.
 - 🧠 Priorizo la auditoría y la reescritura sobre el "ya funciona": si algo puede romperse, se revisa.
 - 🎮 También desarrollo juegos y sistemas interactivos con Canvas2D / HTML5.
 - 🌓 Fan de las interfaces oscuras, minimalistas y sin ruido visual.
 
-<br/>
+<div align="center">
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:E5484D,100:1a1a1a" />
+</div>
 
 ## 🛠️ Stack
 
@@ -46,7 +43,9 @@ module.exports = new ANXVL();
   <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,git,github,vscode&theme=dark" />
 </div>
 
-<br/>
+<div align="center">
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:E5484D,100:1a1a1a" />
+</div>
 
 ## 🚀 Proyectos destacados
 
@@ -55,31 +54,33 @@ module.exports = new ANXVL();
     <td width="50%" valign="top">
       <h3>🔑 Vault Zero</h3>
       <p>Generador de contraseñas en el navegador. Auditado y reescrito con enfoque estricto en no almacenar ni exponer datos sensibles.</p>
-      <img src="https://img.shields.io/badge/type-security%20tool-1a1a1a?style=flat-square&labelColor=E5484D" />
+      <img src="https://img.shields.io/badge/type-security%20tool-E5484D?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h3>🧹 MetaClean Pro</h3>
       <p>Eliminador de metadatos con soporte multi-formato. Procesamiento 100% client-side, sin subir archivos a ningún servidor.</p>
-      <img src="https://img.shields.io/badge/type-privacy%20tool-1a1a1a?style=flat-square&labelColor=E5484D" />
+      <img src="https://img.shields.io/badge/type-privacy%20tool-4ECDC4?style=flat-square" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🛰️ Nova Wing</h3>
       <p>Space shooter en Canvas2D/HTML5 con arquitectura modular multi-archivo y sistemas de juego completos.</p>
-      <img src="https://img.shields.io/badge/type-game%20dev-1a1a1a?style=flat-square&labelColor=E5484D" />
+      <img src="https://img.shields.io/badge/type-game%20dev-FFD93D?style=flat-square&labelColor=1a1a1a" />
     </td>
     <td width="50%" valign="top">
       <h3>➕ Próximamente</h3>
       <p>Reserva este espacio para tu siguiente proyecto publicado.</p>
-      <img src="https://img.shields.io/badge/type-coming%20soon-1a1a1a?style=flat-square&labelColor=555555" />
+      <img src="https://img.shields.io/badge/type-coming%20soon-555555?style=flat-square" />
     </td>
   </tr>
 </table>
 
 > 💡 No olvides fijar estos repos en **"Customize your pins"** en tu perfil para que también aparezcan destacados arriba.
 
-<br/>
+<div align="center">
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:E5484D,100:1a1a1a" />
+</div>
 
 ## 📊 Estadísticas
 
@@ -94,7 +95,9 @@ module.exports = new ANXVL();
 
 > 💡 Estas tarjetas usan solo servicios estables (shields.io y streak-stats) — nada que dependa de instancias que se pausan solas. A medida que subas repos y consigas estrellas/seguidores, estos números se actualizan automáticamente sin que toques nada.
 
-<br/>
+<div align="center">
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:E5484D,100:1a1a1a" />
+</div>
 
 ## 📫 Contacto
 
