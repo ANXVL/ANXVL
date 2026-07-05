@@ -84,22 +84,15 @@ module.exports = new ANXVL();
 ## 📊 Estadísticas
 
 <div align="center">
-  <img src="./github-metrics.svg" width="100%" />
+  <img src="https://img.shields.io/github/followers/ANXVL?label=Followers&style=for-the-badge&color=E5484D&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/ANXVL/ANXVL?label=Stars&style=for-the-badge&color=E5484D&logo=github&logoColor=white" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANXVL&theme=dark&hide_border=true&background=0D1117&ring=E5484D&fire=E5484D&currStreakLabel=E5484D" />
 </div>
 
-> ⚠️ La tarjeta de arriba (`github-metrics.svg`) la genera un GitHub Action propio — no depende de servicios externos que se pausan solos (te dejo el paso a paso completo debajo del README).
-
-<br/>
-
-## 📈 Actividad reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-> Esta sección se auto-actualiza con tus últimas issues/PRs/commits una vez configures el workflow de "recent-activity" (te dejo el paso a paso abajo).
+> 💡 Estas tarjetas usan solo servicios estables (shields.io y streak-stats) — nada que dependa de instancias que se pausan solas. A medida que subas repos y consigas estrellas/seguidores, estos números se actualizan automáticamente sin que toques nada.
 
 <br/>
 
